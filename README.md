@@ -2,6 +2,8 @@ Relógio Digital
 
 Um relógio digital simples e elegante desenvolvido com HTML, CSS e JavaScript. Este projeto é perfeito para aprender e praticar os fundamentos do desenvolvimento web enquanto cria uma aplicação funcional e visualmente atraente.
 
+
+
 Funcionalidades
 
 • Exibe a hora atual (horas, minutos, segundos) em tempo real.
@@ -10,6 +12,8 @@ Funcionalidades
 
 • Leve e rápido.
 
+
+
 Tecnologias Utilizadas
 
 • HTML: Estrutura do relógio.
@@ -17,6 +21,8 @@ Tecnologias Utilizadas
 • CSS: Estilização do relógio, incluindo layout e animações.
 
 • JavaScript: Lógica para atualização dinâmica do horário.
+
+
 
 
 Melhorias Futuras
@@ -28,6 +34,8 @@ Melhorias Futuras
 • Permitir que os usuários selecionem diferentes fusos horários.
 
 • Adicionar mais animações ou transições.
+
+
 
 
 Contribuições
