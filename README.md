@@ -4,28 +4,28 @@ Um relógio digital simples e elegante desenvolvido com HTML, CSS e JavaScript. 
 
 
 
-Funcionalidades
+Funcionalidades<br>
 
 • Exibe a hora atual (horas, minutos, segundos) em tempo real.
 
 • Estilos personalizáveis para a aparência do relógio.
 
-• Leve e rápido.
+• Leve e rápido.<Br><BR>
 
 
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas<Br>
 
 • HTML: Estrutura do relógio.
 
 • CSS: Estilização do relógio, incluindo layout e animações.
 
-• JavaScript: Lógica para atualização dinâmica do horário.
+• JavaScript: Lógica para atualização dinâmica do horário.<br><br>
 
 
 
 
-Melhorias Futuras
+Melhorias Futuras<Br>
 
 • Adicionar um modo noturno.
 
@@ -33,14 +33,14 @@ Melhorias Futuras
 
 • Permitir que os usuários selecionem diferentes fusos horários.
 
-• Adicionar mais animações ou transições.
+• Adicionar mais animações ou transições.<br><Br>
 
 
 
 
-Contribuições
+Contribuições<br>
 
-Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, fique à vontade para fazer um fork do repositório e enviar um pull request.
+Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, fique à vontade para fazer um fork do repositório e enviar um pull request.<br><br>
 
 
 
