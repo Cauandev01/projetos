@@ -1,6 +1,6 @@
 Relógio Digital
 
-Um relógio digital simples e elegante desenvolvido com HTML, CSS e JavaScript. Este projeto é perfeito para aprender e praticar os fundamentos do desenvolvimento web enquanto cria uma aplicação funcional e visualmente atraente.
+Um relógio digital simples e elegante desenvolvido com HTML, CSS e JavaScript. Este projeto é perfeito para aprender e praticar os fundamentos do desenvolvimento web enquanto cria uma aplicação funcional e visualmente atraente. <br><br>
 
 
 
