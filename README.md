@@ -4,7 +4,7 @@ Um relógio digital simples e elegante desenvolvido com HTML, CSS e JavaScript. 
 
 
 
-Funcionalidades<br>
+<b>Funcionalidades/<b><br>
 
 • Exibe a hora atual (horas, minutos, segundos) em tempo real.
 
